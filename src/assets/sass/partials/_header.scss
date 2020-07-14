@@ -1,0 +1,112 @@
+@import "partials/mixins";
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	overflow-y: scroll;
+  }
+
+body .container {
+	max-width: 100%;
+}
+body a {
+	outline: none;
+	letter-spacing: 0;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+	font-weight: 600;
+}
+
+body div, body p {
+	font-size: 14px;
+	font-family: RobotoRegular, sans-serif;
+}
+
+body h1,
+body h2,
+body h3,
+body h4,
+body h5,
+body p {
+	font-family: RobotoRegular, sans-serif;
+}
+body h1 {
+	font-family: RobotoRegular, sans-serif;
+}
+body h3 {
+	font-family: RobotoRegular, sans-serif;
+}
+body h2 {
+	font-family: RobotoRegular, sans-serif;
+} 
+
+a {
+	font-family: RobotoRegular, sans-serif;
+}
+button {
+	font-family: RobotoRegular, sans-serif;
+}
+.container-fluid {
+	padding-right: 0px;
+	padding-left: 0px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.container {
+	padding-right: 0px;
+	padding-left: 0px;
+	margin-right: auto;
+	margin-left: auto;
+	max-width: 100%;
+}
+
+@media (min-width: 320px) {
+    .container {
+        width: 300px;
+    }
+}
+
+@media (min-width: 410px) {
+    .container {
+        width: 430px;
+    }
+}
+
+@media (min-width: 479px) {
+    .container {
+        width: 500px;
+    }
+}
+
+@media (min-width: 768px) {
+    .container {
+        width: 750px;
+    }
+}
+
+@media (min-width: 992px) {
+    .container {
+        width: 970px;
+    }
+}
+
+@media (min-width: 1200px){
+    .container {
+        width: 1170px;
+    }
+}
+
+.cover-wrapper {
+	img {
+		width: 100%;
+		height: auto;
+		display: block;
+	}
+}
+
+
+

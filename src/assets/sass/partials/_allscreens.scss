@@ -1,0 +1,69 @@
+@media screen and (max-width: 1920px)  {
+    
+}
+@media screen and (max-width: 1520px) {
+  .folder__content .document__content{
+    .actions{
+      text-align: center;
+      .preview{
+        display: block;
+        margin-left: auto!important;
+        margin-right: auto!important;
+      }
+      .buttons-wrapper{
+        margin-bottom: 20px;
+      }
+
+    }
+    .emphasized{
+      .line{
+        display: none;
+        position: unset;
+        &:after{
+          border: none;
+        }
+      }
+    }
+  }
+}
+@media screen and (max-width: 1200px) {
+  .tree{
+      height: unset;
+  }
+  .folder__header{
+    padding-bottom: 20px;
+  }
+}	
+@media screen and (max-width: 991px) {
+  .folder__content .panel__table__wrapper {
+    padding-left: 15px;
+    padding-right: 15px;
+
+  }
+  .folder__content .document__content{
+    margin-right: 0px;
+  }
+
+}
+@media screen and (max-width: 767px) {
+  .modal-wrapper .modal-content .form-content
+  label{
+    width: 100%;
+  }
+  .addedControl{
+    display: unset;
+  }
+}
+@media screen and (max-width: 600px) {
+  .folder__content .folder__header .col-md-8 input{
+    max-width: 200px;
+  }
+
+}
+@media screen and (max-width: 410px) {
+
+}
+@media screen and (max-width: 320px) {
+
+}
+
