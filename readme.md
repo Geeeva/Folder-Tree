@@ -25,7 +25,15 @@ All fields in form are required to be filled as well as the newly added control.
 Form data is saved to local storage when pressing SAVE CHANGES.
 The projects is done by using only using functional components with React hooks and not classes. 
 That was one of the focuses of the project. For exchanging data between not nested components it is used Context API/Reducers.
+Project is fully responsive.
+
+#Steps to run this project:
+
+- **git clone https://github.com/Geeeva/Folder-tree.git**
+- **cd Folder-tree**
+- **npm install**
+- **npm start**
 
 
-**[Demo](https://geeeva.github.io/Folder-Tree/)**
+**[Project Demo](https://geeeva.github.io/Folder-tree/)**
 
