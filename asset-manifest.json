@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Folder-Tree/static/css/main.19e31d7f.chunk.css",
+    "main.js": "/Folder-Tree/static/js/main.1d180212.chunk.js",
+    "main.js.map": "/Folder-Tree/static/js/main.1d180212.chunk.js.map",
+    "runtime~main.js": "/Folder-Tree/static/js/runtime~main.1ffa460c.js",
+    "runtime~main.js.map": "/Folder-Tree/static/js/runtime~main.1ffa460c.js.map",
+    "static/css/2.ecffae5e.chunk.css": "/Folder-Tree/static/css/2.ecffae5e.chunk.css",
+    "static/js/2.e3d82144.chunk.js": "/Folder-Tree/static/js/2.e3d82144.chunk.js",
+    "static/js/2.e3d82144.chunk.js.map": "/Folder-Tree/static/js/2.e3d82144.chunk.js.map",
+    "index.html": "/Folder-Tree/index.html",
+    "precache-manifest.59e1cfec74a5fb736b2838b49e1a76af.js": "/Folder-Tree/precache-manifest.59e1cfec74a5fb736b2838b49e1a76af.js",
+    "service-worker.js": "/Folder-Tree/service-worker.js",
+    "static/css/2.ecffae5e.chunk.css.map": "/Folder-Tree/static/css/2.ecffae5e.chunk.css.map",
+    "static/css/main.19e31d7f.chunk.css.map": "/Folder-Tree/static/css/main.19e31d7f.chunk.css.map",
+    "static/media/main.scss": "/Folder-Tree/static/media/Roboto-Regular.3e1af3ef.ttf",
+    "static/media/docx.svg": "/Folder-Tree/static/media/docx.6f8583a4.svg",
+    "static/media/pdf.svg": "/Folder-Tree/static/media/pdf.5a9681c8.svg",
+    "static/media/search.svg": "/Folder-Tree/static/media/search.c4127766.svg",
+    "static/media/xlsx.svg": "/Folder-Tree/static/media/xlsx.a8ac724f.svg"
+  }
+}
